@@ -1,2 +1,2 @@
-# techdegree_github_lesson
+# Techdegree GitHub Project
 Practice Creating Repo
